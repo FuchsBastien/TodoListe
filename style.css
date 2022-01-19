@@ -76,6 +76,7 @@ li button {
 }
 button img {
     width: 40px;
+    /*ignore le pointeur de la souris avec image*/
     pointer-events: none;
 }
 li span {
